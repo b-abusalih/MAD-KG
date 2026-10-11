@@ -1,5 +1,4 @@
 # MAD-KG
-Raw Data for 
 
 This is a repository for the dataset used in the paper entitled "MAD-KG: A Hybrid Knowledge Graph Construction Framework for Mobile App Development Domain"
 
